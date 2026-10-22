@@ -14,3 +14,5 @@ It uses Object Oriented Programming concepts such as creating seperate files/cla
 ### Our Success:
 We attribute our success to our ability to communicate and work together to solve issues without relying on AI. Our varying experitise in java, git, github, windows os, macos, and linux allowed us to ensure everyone had a proper understanding of the various concepts that real software programmers use daily.
 
+### Code Examples:
+![alt text](image.png)
